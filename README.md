@@ -358,6 +358,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [Adon AI](https://adon-web.awakast.com/en/recruiter/) - CV screening automation and blind CV generator, AI backed ATS
 - [Persuva](https://persuva.ai) - Persuva is the AI-driven platform to create persuasive, high-converting ad copy at scale.
 - [Interview Solver](https://interviewsolver.com) - Ace your live coding interviews with our AI Copilot
+- [Tool List Ai](https://toollist.ai/) - Find the best AI tools for every task
 
 
 ## Learning resources
